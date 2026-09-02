@@ -2,7 +2,7 @@ id: dra
 title:
   ko: "동적 리소스 할당"
   en: "Dynamic Resource Allocation"
-url: https://kubernetes.io/docs/concepts/scheduling-eviction/dynamic-resource-allocation/
+url: https://kubernetes.io/docs/concepts/resource-management/dynamic-resource-allocation/
 section: extending
 requires:
   - custom-resources
